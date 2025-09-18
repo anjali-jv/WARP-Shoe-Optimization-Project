@@ -1,5 +1,3 @@
-#Lea_Akzam_akzamlea_1009879669
-#Anjali_Jammulamadaka_jammula1_1009931870
 
 #sets
 set S; #set of shoes
@@ -48,6 +46,7 @@ subject to Time_Co: sum{s in S, m in M} Avg_Duration[s,m]*x[s] <= (Machine_OpTim
 subject to Warehouse_Co{w in WH} S: sum{s in S} x[s] <= Warehouse_Capacity[w];
 #raw material constraint
 subject to RM_Quantity_Available{rm in R}: sum{s in S} (Amt_RM_Shoe[s, rm]*x[s]) <= RM_Amount[rm];
+
 
 
 
