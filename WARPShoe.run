@@ -1,5 +1,3 @@
-#Lea_Akzam_akzamlea_1009879669
-#Anjali_Jammulamadaka_jammula1_1009931870
 
 reset;
 
@@ -53,6 +51,7 @@ display Time_Co.dual > WARPShoe.out;
 display Warehouse_Co.dual > WARPShoe.out;
 display RM_Quantity_Available.dual > WARPShoe.out;
 display Demand_Co.dual > WARPShoe.out;
+
 
 
 
