@@ -1,0 +1,1473 @@
+The maximum profit is: 15869430.74.
+The optimal x-values (shoes produced) are: 
+:          x         x.rc        :=
+SH001     0       -17.0792
+SH002   449         0
+SH003   463         0
+SH004     0        -1.41986
+SH005   466         0
+SH006   427         0
+SH007   440         0
+SH008   434         0
+SH009   440         0
+SH010   395         0
+SH011     0        -5.60922
+SH012     0       -18.4547
+SH013   425         0
+SH014     0       -10.9433
+SH015   388         0
+SH016     0       -23.7965
+SH017   421         0
+SH018   513         0
+SH019     0        -1.93065
+SH020   427         0
+SH021   466         0
+SH022   447         0
+SH023   415         0
+SH024   417         0
+SH025     0        -0.690729
+SH026   447         0
+SH027     0        -1.15135
+SH028   427         0
+SH029   435         0
+SH030   461         0
+SH031   451         0
+SH032     0       -21.8347
+SH033   422         0
+SH034     0       -18.3325
+SH035   431         0
+SH036   478         0
+SH037   489         0
+SH038   479         0
+SH039   389         0
+SH040     0       -18.5599
+SH041     0       -15.2759
+SH042   375         0
+SH043     0        -7.20136
+SH044     0       -22.4324
+SH045   419         0
+SH046   418         0
+SH047   411         0
+SH048     0        -7.04259
+SH049     0        -2.57438
+SH050     0       -11.2137
+SH051     0        -9.75736
+SH052     0        -3.39488
+SH053   439         0
+SH054   470         0
+SH055   410         0
+SH056   411         0
+SH057     0        -2.13538
+SH058     0        -0.832053
+SH059   468         0
+SH060   465         0
+SH061     0       -34.3406
+SH062     0        -8.26818
+SH063   446         0
+SH064     0       -16.1427
+SH065   487         0
+SH066     0        -1.48329
+SH067   431         0
+SH068   425         0
+SH069   417         0
+SH070   395         0
+SH071   444         0
+SH072   452         0
+SH073     0       -11.1003
+SH074     0        -3.07836
+SH075   423         0
+SH076   463         0
+SH077   366         0
+SH078     0       -14.58
+SH079     0        -4.35233
+SH080   409         0
+SH081   417         0
+SH082   427         0
+SH083   394         0
+SH084   445         0
+SH085     0       -13.0108
+SH086   435         0
+SH087     0        -0.474442
+SH088     0       -12.9039
+SH089     0       -18.534
+SH090     0       -30.4836
+SH091   449         0
+SH092   435         0
+SH093   384         0
+SH094   493         0
+SH095   422         0
+SH096   453         0
+SH097   437         0
+SH098   455         0
+SH099   509         0
+SH100   394         0
+SH101   444         0
+SH102   441         0
+SH103   423         0
+SH104   433         0
+SH105   418         0
+SH106   415         0
+SH107   381         0
+SH108   428         0
+SH109     0       -12.4018
+SH110   417         0
+SH111   429         0
+SH112     0        -3.57004
+SH113   454         0
+SH114   410         0
+SH115     0       -19.3163
+SH116   455         0
+SH117   463         0
+SH118   383         0
+SH119   431         0
+SH120   473         0
+SH121   508         0
+SH122   526         0
+SH123   463         0
+SH124   492         0
+SH125   446         0
+SH126     0        -3.69365
+SH127     0        -5.84265
+SH128     0       -17.8033
+SH129   419         0
+SH130     0       -16.0178
+SH131     0        -9.20268
+SH132   502         0
+SH133   483         0
+SH134     0       -15.4588
+SH135     0        -7.63983
+SH136   445         0
+SH137     0        -5.97805
+SH138   485         0
+SH139   445         0
+SH140   419         0
+SH141   395         0
+SH142   399         0
+SH143   421         0
+SH144     0       -34.0366
+SH145   442         0
+SH146     0       -27.4738
+SH147   399         0
+SH148   443         0
+SH149     0        -0.102788
+SH150     0       -35.8052
+SH151   481         0
+SH152   471         0
+SH153     0        -3.29487
+SH154   437         0
+SH155     0        -0.554005
+SH156   447         0
+SH157     0        -1.78384
+SH158   499         0
+SH159     0        -0.502474
+SH160   407         0
+SH161     0        -6.76993
+SH162     0       -33.6582
+SH163     0        -4.10393
+SH164   443         0
+SH165     0        -3.05697
+SH166   441         0
+SH167     0       -14.5163
+SH168     0       -15.523
+SH169   464         0
+SH170     0       -20.5431
+SH171   470         0
+SH172     0        -3.24309
+SH173   419         0
+SH174   491         0
+SH175   455         0
+SH176     0       -13.5789
+SH177     0       -11.5346
+SH178     0       -20.8066
+SH179     0       -18.222
+SH180     0        -8.0014
+SH181   435         0
+SH182   419         0
+SH183   471         0
+SH184   461         0
+SH185   463         0
+SH186     0       -27.0436
+SH187   421         0
+SH188     0       -37.4274
+SH189   365         0
+SH190   426         0
+SH191   455         0
+SH192     0       -13.2572
+SH193   411         0
+SH194   433         0
+SH195   505         0
+SH196   465         0
+SH197     0       -20.6972
+SH198     0       -18.7652
+SH199     0        -0.763612
+SH200     0        -1.77656
+SH201   476         0
+SH202   438         0
+SH203     0       -25.3102
+SH204   431         0
+SH205     0       -11.2797
+SH206   411         0
+SH207   453         0
+SH208   437         0
+SH209   437         0
+SH210     0        -0.502401
+SH211     0        -4.74397
+SH212   367         0
+SH213     0       -14.2452
+SH214   417         0
+SH215   392         0
+SH216   383         0
+SH217   434         0
+SH218   411         0
+SH219   481         0
+SH220   375         0
+SH221   205.618     0
+SH222   466         0
+SH223     0        -6.02727
+SH224   443         0
+SH225   447         0
+SH226   419         0
+SH227     0        -6.42731
+SH228   482         0
+SH229   416         0
+SH230   445         0
+SH231   404         0
+SH232   439         0
+SH233   449         0
+SH234   405         0
+SH235     0        -8.1527
+SH236     0       -26.1662
+SH237     0        -9.72772
+SH238   451         0
+SH239     0        -7.29885
+SH240     0       -12.1403
+SH241   419         0
+SH242   449         0
+SH243     0        -1.6625
+SH244     0       -28.4029
+SH245   449         0
+SH246   437         0
+SH247     0       -37.7295
+SH248   422         0
+SH249     0       -37.2707
+SH250     0        -5.31073
+SH251   534         0
+SH252     0       -23.0667
+SH253   381         0
+SH254     0       -11.7498
+SH255     0       -38.7705
+SH256     0       -10.3884
+SH257   489         0
+SH258     0        -2.16512
+SH259   461         0
+SH260   411         0
+SH261   409         0
+SH262     0        -1.65028
+SH263     0       -27.6325
+SH264   486         0
+SH265     0        -8.26617
+SH266     0        -1.74784
+SH267   431         0
+SH268   474         0
+SH269   429         0
+SH270   427         0
+SH271   442         0
+SH272   405         0
+SH273   497         0
+SH274   427         0
+SH275   405         0
+SH276   415         0
+SH277   423         0
+SH278   450         0
+SH279   372         0
+SH280   418         0
+SH281   405         0
+SH282   415         0
+SH283   423         0
+SH284     0       -13.0401
+SH285   485         0
+SH286     0       -21.3459
+SH287   410         0
+SH288   453         0
+SH289   451         0
+SH290   449         0
+SH291   453         0
+SH292   496         0
+SH293     0       -33.188
+SH294   505         0
+SH295     0        -0.548847
+SH296     0        -9.52163
+SH297     0       -24.8361
+SH298     0        -3.04608
+SH299   447         0
+SH300     0       -13.6636
+SH301   456         0
+SH302     0        -7.67262
+SH303   407         0
+SH304     0        -3.86774
+SH305     0        -0.843517
+SH306   415         0
+SH307   417         0
+SH308     0        -9.70362
+SH309     0       -22.3998
+SH310   448         0
+SH311     0        -5.64139
+SH312     0       -13.9159
+SH313     0        -8.90422
+SH314     0       -15.6314
+SH315   443         0
+SH316   435         0
+SH317   411         0
+SH318     0       -17.4534
+SH319   422         0
+SH320     0        -3.8854
+SH321   405         0
+SH322   475         0
+SH323   405         0
+SH324   485         0
+SH325     0       -49.8764
+SH326     0        -9.29881
+SH327   447         0
+SH328   422         0
+SH329   400         0
+SH330   445         0
+SH331     0       -22.2606
+SH332   493         0
+SH333   470         0
+SH334     0       -42.7849
+SH335   391         0
+SH336   437         0
+SH337     0        -5.35615
+SH338     0        -9.38236
+SH339   450         0
+SH340     0        -0.0470194
+SH341   429         0
+SH342     0        -0.726334
+SH343   509         0
+SH344   465         0
+SH345     0       -26.0444
+SH346   372         0
+SH347   475         0
+SH348     0       -16.9672
+SH349     0       -37.8869
+SH350   420         0
+SH351   403         0
+SH352     0        -3.98815
+SH353     0       -10.6118
+SH354   428         0
+SH355   394         0
+SH356   430         0
+SH357   368         0
+SH358   427         0
+SH359   441         0
+SH360   511         0
+SH361   417         0
+SH362   419         0
+SH363     0       -25.2583
+SH364   439         0
+SH365   401         0
+SH366   489         0
+SH367   452         0
+SH368   430         0
+SH369     0       -16.1345
+SH370   390         0
+SH371   398         0
+SH372   463         0
+SH373     0       -20.9302
+SH374   391         0
+SH375   490         0
+SH376   486         0
+SH377     0       -19.4887
+SH378     0       -55.6819
+SH379   421         0
+SH380   409         0
+SH381     0        -7.22738
+SH382     0        -9.81035
+SH383   447         0
+SH384     0        -8.7897
+SH385   477         0
+SH386   425         0
+SH387   431         0
+SH388   411         0
+SH389     0        -4.64442
+SH390   454         0
+SH391     0       -19.5293
+SH392     0       -12.4974
+SH393   423         0
+SH394     0       -32.7143
+SH395     0        -7.56206
+SH396   476         0
+SH397   424         0
+SH398   425         0
+SH399   443         0
+SH400   430         0
+SH401   476         0
+SH402   421         0
+SH403     0        -0.301981
+SH404   419         0
+SH405   451         0
+SH406     0       -25.5137
+SH407   437         0
+SH408   462         0
+SH409   399         0
+SH410   457         0
+SH411   421         0
+SH412     0        -6.91232
+SH413   442         0
+SH414   462         0
+SH415     0       -14.9973
+SH416   417         0
+SH417   482         0
+SH418   524         0
+SH419     0        -4.28359
+SH420   478         0
+SH421   417         0
+SH422   419         0
+SH423   466         0
+SH424   373         0
+SH425   459         0
+SH426     0        -9.64849
+SH427     0       -15.596
+SH428     0       -11.4844
+SH429   474         0
+SH430     0       -13.4305
+SH431   399         0
+SH432   479         0
+SH433   463         0
+SH434     0        -1.16265
+SH435   468         0
+SH436   433         0
+SH437     0       -11.7102
+SH438   411         0
+SH439   455         0
+SH440   486         0
+SH441   415         0
+SH442   445         0
+SH443     0        -5.14242
+SH444   446         0
+SH445     0        -7.05545
+SH446   483         0
+SH447     0       -30.4025
+SH448   461         0
+SH449   475         0
+SH450   430         0
+SH451     0        -4.8107
+SH452     0       -10.7313
+SH453     0        -4.93524
+SH454   483         0
+SH455     0       -19.5701
+SH456     0       -26.2764
+SH457   458         0
+SH458     0       -33.863
+SH459   409         0
+SH460   457         0
+SH461   402         0
+SH462   401         0
+SH463   463         0
+SH464     0        -2.79229
+SH465   433         0
+SH466     0       -22.4085
+SH467     0        -9.06985
+SH468   426         0
+SH469     0       -10.4935
+SH470   461         0
+SH471     0        -7.73193
+SH472   453         0
+SH473     0       -23.9394
+SH474   476         0
+SH475   450         0
+SH476     0       -19.446
+SH477     0       -19.8523
+SH478   462         0
+SH479   488         0
+SH480     0       -13.0461
+SH481     0       -12.722
+SH482     0       -17.7875
+SH483     0       -14.2089
+SH484   469         0
+SH485   407         0
+SH486   433         0
+SH487   484         0
+SH488   415         0
+SH489   441         0
+SH490     0       -21.804
+SH491     0        -6.6527
+SH492     0       -28.5437
+SH493     0       -23.4428
+SH494     0        -1.94429
+SH495     0        -4.78624
+SH496   491         0
+SH497     0       -20.4446
+SH498   403         0
+SH499   420         0
+SH500     0       -14.3047
+SH501     0       -13.1325
+SH502   474         0
+SH503   413         0
+SH504   453         0
+SH505     0        -0.820228
+SH506   371         0
+SH507   442         0
+SH508     0        -1.7401
+SH509   450         0
+SH510   433         0
+SH511     0       -21.5934
+SH512   475         0
+SH513     0        -1.11033
+SH514     0       -23.452
+SH515     0        -1.69894
+SH516     0       -17.4104
+SH517   397         0
+SH518   401         0
+SH519   459         0
+SH520   449         0
+SH521   361         0
+SH522   415         0
+SH523   475         0
+SH524   399         0
+SH525   544         0
+SH526   436         0
+SH527   443         0
+SH528   455         0
+SH529   439         0
+SH530   428         0
+SH531     0        -1.49598
+SH532   475         0
+SH533   471         0
+SH534     0       -23.8933
+SH535     0        -3.78889
+SH536     0        -4.23687
+SH537   465         0
+SH538   421         0
+SH539   433         0
+SH540     0       -12.4452
+SH541   338         0
+SH542   451         0
+SH543   469         0
+SH544     0        -0.549752
+SH545     0        -9.9349
+SH546     0       -17.3714
+SH547   464         0
+SH548     0        -1.68371
+SH549   416         0
+SH550   483         0
+SH551   427         0
+SH552   425         0
+SH553     0        -5.19974
+SH554   409         0
+SH555   412         0
+SH556     0       -23.6643
+SH557   470         0
+;
+
+Budget is not binding.
+Time Constraint is not binding.
+Warehouse Capacity is not binding.
+Warehouse Capacity is not binding.
+Warehouse Capacity is not binding.
+Warehouse Capacity is not binding.
+Warehouse Capacity is not binding.
+Warehouse Capacity is not binding.
+Warehouse Capacity is not binding.
+Warehouse Capacity is not binding.
+Raw Material Quantity Available is not binding.
+Raw Material Quantity Available is not binding.
+Raw Material Quantity Available is not binding.
+Raw Material Quantity Available is not binding.
+Raw Material Quantity Available is not binding.
+Raw Material Quantity Available is not binding.
+Raw Material Quantity Available is not binding.
+Raw Material Quantity Available is not binding.
+Raw Material Quantity Available is not binding.
+Raw Material Quantity Available is not binding.
+Raw Material Quantity Available is not binding.
+Raw Material Quantity Available is not binding.
+Raw Material Quantity Available is not binding.
+Raw Material Quantity Available is not binding.
+Raw Material Quantity Available is not binding.
+Raw Material Quantity Available is not binding.
+Raw Material Quantity Available is not binding.
+Raw Material Quantity Available is not binding.
+Raw Material Quantity Available is not binding.
+Raw Material Quantity Available is not binding.
+Raw Material Quantity Available is not binding.
+Raw Material Quantity Available is not binding.
+Raw Material Quantity Available is not binding.
+Raw Material Quantity Available is not binding.
+Raw Material Quantity Available is not binding.
+Raw Material Quantity Available is not binding.
+Raw Material Quantity Available is not binding.
+Raw Material Quantity Available is not binding.
+Raw Material Quantity Available is not binding.
+Raw Material Quantity Available is not binding.
+Raw Material Quantity Available is not binding.
+Raw Material Quantity Available is not binding.
+Raw Material Quantity Available is not binding.
+Raw Material Quantity Available is not binding.
+Raw Material Quantity Available is not binding.
+Raw Material Quantity Available is not binding.
+Raw Material Quantity Available is not binding.
+Raw Material Quantity Available is not binding.
+Raw Material Quantity Available is not binding.
+Raw Material Quantity Available is not binding.
+Raw Material Quantity Available is not binding.
+Raw Material Quantity Available is not binding.
+Raw Material Quantity Available is not binding.
+Raw Material Quantity Available is not binding.
+Raw Material Quantity Available is not binding.
+Raw Material Quantity Available is not binding.
+Raw Material Quantity Available is not binding.
+Raw Material Quantity Available is not binding.
+Raw Material Quantity Available is not binding.
+Raw Material Quantity Available is not binding.
+Raw Material Quantity Available is not binding.
+Raw Material Quantity Available is not binding.
+Raw Material Quantity Available is not binding.
+Raw Material Quantity Available is not binding.
+Raw Material Quantity Available is not binding.
+Raw Material Quantity Available is not binding.
+Raw Material Quantity Available is not binding.
+Raw Material Quantity Available is not binding.
+Raw Material Quantity Available is not binding.
+Raw Material Quantity Available is not binding.
+Raw Material Quantity Available is not binding.
+Raw Material Quantity Available is not binding.
+Raw Material Quantity Available is not binding.
+Raw Material Quantity Available is not binding.
+Raw Material Quantity Available is not binding.
+Raw Material Quantity Available is not binding.
+Raw Material Quantity Available is not binding.
+Raw Material Quantity Available is not binding.
+Raw Material Quantity Available is not binding.
+Raw Material Quantity Available is not binding.
+Raw Material Quantity Available is not binding.
+Raw Material Quantity Available is not binding.
+Raw Material Quantity Available is not binding.
+Raw Material Quantity Available is not binding.
+Raw Material Quantity Available is not binding.
+Raw Material Quantity Available is not binding.
+Raw Material Quantity Available is not binding.
+Raw Material Quantity Available is not binding.
+Raw Material Quantity Available is not binding.
+Raw Material Quantity Available is not binding.
+Raw Material Quantity Available is not binding.
+Raw Material Quantity Available is not binding.
+Raw Material Quantity Available is not binding.
+Raw Material Quantity Available is not binding.
+Raw Material Quantity Available is not binding.
+Raw Material Quantity Available is not binding.
+Raw Material Quantity Available is not binding.
+Raw Material Quantity Available is not binding.
+Raw Material Quantity Available is not binding.
+Raw Material Quantity Available is not binding.
+Raw Material Quantity Available is not binding.
+Raw Material Quantity Available is not binding.
+Raw Material Quantity Available is not binding.
+Raw Material Quantity Available is not binding.
+Raw Material Quantity Available is not binding.
+Raw Material Quantity Available is not binding.
+Raw Material Quantity Available is not binding.
+Raw Material Quantity Available is not binding.
+Raw Material Quantity Available is not binding.
+Raw Material Quantity Available is not binding.
+Raw Material Quantity Available is not binding.
+Raw Material Quantity Available is not binding.
+Raw Material Quantity Available is not binding.
+Raw Material Quantity Available is not binding.
+Raw Material Quantity Available is not binding.
+Raw Material Quantity Available is not binding.
+Raw Material Quantity Available is not binding.
+Raw Material Quantity Available is not binding.
+Raw Material Quantity Available is not binding.
+Raw Material Quantity Available is not binding.
+Raw Material Quantity Available is not binding.
+Raw Material Quantity Available is not binding.
+Raw Material Quantity Available is not binding.
+Raw Material Quantity Available is not binding.
+Raw Material Quantity Available is not binding.
+Raw Material Quantity Available is not binding.
+Raw Material Quantity Available is not binding.
+Raw Material Quantity Available is not binding.
+Raw Material Quantity Available is not binding.
+Raw Material Quantity Available is not binding.
+Raw Material Quantity Available is not binding.
+Raw Material Quantity Available is not binding.
+Raw Material Quantity Available is not binding.
+Raw Material Quantity Available is not binding.
+Raw Material Quantity Available is not binding.
+Raw Material Quantity Available is not binding.
+Raw Material Quantity Available is not binding.
+Raw Material Quantity Available is not binding.
+Raw Material Quantity Available is not binding.
+Raw Material Quantity Available is not binding.
+Raw Material Quantity Available is not binding.
+Raw Material Quantity Available is not binding.
+Raw Material Quantity Available is not binding.
+Raw Material Quantity Available is not binding.
+Raw Material Quantity Available is not binding.
+Raw Material Quantity Available is not binding.
+Raw Material Quantity Available is not binding.
+Raw Material Quantity Available is not binding.
+Raw Material Quantity Available is not binding.
+Raw Material Quantity Available is not binding.
+Raw Material Quantity Available is not binding.
+Raw Material Quantity Available is not binding.
+Raw Material Quantity Available is not binding.
+Raw Material Quantity Available is not binding.
+Raw Material Quantity Available is not binding.
+Raw Material Quantity Available is not binding.
+Raw Material Quantity Available is not binding.
+Raw Material Quantity Available is not binding.
+Raw Material Quantity Available is not binding.
+Raw Material Quantity Available is not binding.
+Raw Material Quantity Available is not binding.
+Raw Material Quantity Available is not binding.
+Raw Material Quantity Available is not binding.
+Raw Material Quantity Available is not binding.
+Raw Material Quantity Available is not binding.
+Raw Material Quantity Available is not binding.
+Raw Material Quantity Available is not binding.
+Raw Material Quantity Available is not binding.
+Raw Material Quantity Available is not binding.
+Raw Material Quantity Available is not binding.
+Raw Material Quantity Available is not binding.
+Raw Material Quantity Available is not binding.
+Raw Material Quantity Available is not binding.
+Raw Material Quantity Available is not binding.
+Raw Material Quantity Available is not binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is not binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+Demand is binding.
+The shadow prices are: 
+Budget_Co.dual = 1.58926
+
+Time_Co.dual = 0
+
+Warehouse_Co.dual [*] :=
+1  0
+2  0
+3  0
+4  0
+5  0
+6  0
+7  0
+8  0
+;
+
+RM_Quantity_Available.dual [*] :=
+  1 0    18 0    35 0    52 0    69 0    86 0   103 0   120 0   137 0   154 0
+  2 0    19 0    36 0    53 0    70 0    87 0   104 0   121 0   138 0   155 0
+  3 0    20 0    37 0    54 0    71 0    88 0   105 0   122 0   139 0   156 0
+  4 0    21 0    38 0    55 0    72 0    89 0   106 0   123 0   140 0   157 0
+  5 0    22 0    39 0    56 0    73 0    90 0   107 0   124 0   141 0   158 0
+  6 0    23 0    40 0    57 0    74 0    91 0   108 0   125 0   142 0   159 0
+  7 0    24 0    41 0    58 0    75 0    92 0   109 0   126 0   143 0   160 0
+  8 0    25 0    42 0    59 0    76 0    93 0   110 0   127 0   144 0   161 0
+  9 0    26 0    43 0    60 0    77 0    94 0   111 0   128 0   145 0   162 0
+ 10 0    27 0    44 0    61 0    78 0    95 0   112 0   129 0   146 0   163 0
+ 11 0    28 0    45 0    62 0    79 0    96 0   113 0   130 0   147 0   164 0
+ 12 0    29 0    46 0    63 0    80 0    97 0   114 0   131 0   148 0   165 0
+ 13 0    30 0    47 0    64 0    81 0    98 0   115 0   132 0   149 0
+ 14 0    31 0    48 0    65 0    82 0    99 0   116 0   133 0   150 0
+ 15 0    32 0    49 0    66 0    83 0   100 0   117 0   134 0   151 0
+ 16 0    33 0    50 0    67 0    84 0   101 0   118 0   135 0   152 0
+ 17 0    34 0    51 0    68 0    85 0   102 0   119 0   136 0   153 0
+;
+
+Demand_Co.dual [*] :=
+SH001  0           SH141  4.80719     SH281 18.5748      SH421  5.72691
+SH002  6.21713     SH142  1.17009     SH282 15.8643      SH422 28.172
+SH003 12.8884      SH143  8.90068     SH283  9.3569      SH423  8.77851
+SH004  0           SH144  0           SH284  0           SH424 13.6746
+SH005 10.0616      SH145 16.4061      SH285 37.8084      SH425 11.2498
+SH006 38.2361      SH146  0           SH286  0           SH426  0
+SH007  3.93873     SH147  6.12616     SH287  2.11541     SH427  0
+SH008 16.6298      SH148 20.9366      SH288 40.7986      SH428  0
+SH009 19.3904      SH149  0           SH289  5.33117     SH429  3.64277
+SH010 11.4073      SH150  0           SH290 12.4784      SH430  0
+SH011  0           SH151 41.5332      SH291 25.0946      SH431 25.7646
+SH012  0           SH152 10.1175      SH292 37.1876      SH432 10.9839
+SH013  2.31605     SH153  0           SH293  0           SH433 24.3836
+SH014  0           SH154 22.0018      SH294  8.88254     SH434  0
+SH015 33.2539      SH155  0           SH295  0           SH435  7.36502
+SH016  0           SH156  6.36678     SH296  0           SH436 20.7127
+SH017 30.9581      SH157  0           SH297  0           SH437  0
+SH018 14.1444      SH158 13.811       SH298  0           SH438 12.566
+SH019  0           SH159  0           SH299 34.3891      SH439 26.681
+SH020 10.6505      SH160 10.2413      SH300  0           SH440 51.4808
+SH021 15.7252      SH161  0           SH301  6.19439     SH441 28.9252
+SH022 43.8458      SH162  0           SH302  0           SH442 11.7697
+SH023 24.3146      SH163  0           SH303 16.4151      SH443  0
+SH024 16.5923      SH164 29.5037      SH304  0           SH444 11.6386
+SH025  0           SH165  0           SH305  0           SH445  0
+SH026 18.1463      SH166  2.30512     SH306  9.96104     SH446 41.113
+SH027  0           SH167  0           SH307 22.1682      SH447  0
+SH028 18.8215      SH168  0           SH308  0           SH448  7.80581
+SH029 41.4241      SH169 42.6602      SH309  0           SH449 24.7511
+SH030  7.65262     SH170  0           SH310  5.35952     SH450 15.5078
+SH031 10.3093      SH171 24.9991      SH311  0           SH451  0
+SH032  0           SH172  0           SH312  0           SH452  0
+SH033 15.9578      SH173  0.535084    SH313  0           SH453  0
+SH034  0           SH174 56.5503      SH314  0           SH454 36.8108
+SH035  4.65787     SH175 13.2296      SH315 18.0205      SH455  0
+SH036 19.8417      SH176  0           SH316  6.86519     SH456  0
+SH037  3.60635     SH177  0           SH317  2.93432     SH457  6.65747
+SH038 20.5752      SH178  0           SH318  0           SH458  0
+SH039  6.38995     SH179  0           SH319 36.1011      SH459 21.2592
+SH040  0           SH180  0           SH320  0           SH460 32.455
+SH041  0           SH181  9.3053      SH321 35.7566      SH461  0.482329
+SH042 27.3457      SH182 18.4935      SH322 19.9362      SH462 15.238
+SH043  0           SH183 25.4312      SH323 43.8534      SH463 40.223
+SH044  0           SH184 31.1882      SH324  4.89677     SH464  0
+SH045 26.4335      SH185 18.2749      SH325  0           SH465  6.46658
+SH046 46.7308      SH186  0           SH326  0           SH466  0
+SH047 52.6205      SH187 40.5906      SH327 21.5412      SH467  0
+SH048  0           SH188  0           SH328 13.984       SH468  9.31236
+SH049  0           SH189  8.81438     SH329 14.3067      SH469  0
+SH050  0           SH190 14.3348      SH330 31.3813      SH470  9.35337
+SH051  0           SH191 19.5661      SH331  0           SH471  0
+SH052  0           SH192  0           SH332 19.3536      SH472  0.971941
+SH053 14.9969      SH193 25.3177      SH333 22.9403      SH473  0
+SH054  7.08271     SH194 52.5587      SH334  0           SH474 32.0564
+SH055 41.3525      SH195  0.0235496   SH335  7.66309     SH475 17.0889
+SH056 26.2851      SH196 50.4346      SH336  0.548831    SH476  0
+SH057  0           SH197  0           SH337  0           SH477  0
+SH058  0           SH198  0           SH338  0           SH478  9.1987
+SH059 20.0433      SH199  0           SH339 42.6198      SH479 46.8379
+SH060 14.2796      SH200  0           SH340  0           SH480  0
+SH061  0           SH201  2.25639     SH341 17.2492      SH481  0
+SH062  0           SH202 14.5979      SH342  0           SH482  0
+SH063  1.09436     SH203  0           SH343 18.8132      SH483  0
+SH064  0           SH204 22.2302      SH344 21.8613      SH484 11.9757
+SH065  0.866077    SH205  0           SH345  0           SH485  0.549573
+SH066  0           SH206 23.3638      SH346 35.6397      SH486 29.2483
+SH067  5.71067     SH207  9.29548     SH347 33.5105      SH487 28.3318
+SH068 61.5187      SH208 29.4421      SH348  0           SH488 44.2605
+SH069 43.2199      SH209  3.54357     SH349  0           SH489 14.4417
+SH070  6.03098     SH210  0           SH350 17.629       SH490  0
+SH071  9.64936     SH211  0           SH351 28.4356      SH491  0
+SH072 27.6408      SH212 15.975       SH352  0           SH492  0
+SH073  0           SH213  0           SH353  0           SH493  0
+SH074  0           SH214 29.7538      SH354 27.6201      SH494  0
+SH075 40.7689      SH215 19.5141      SH355 15.6679      SH495  0
+SH076 33.8829      SH216  5.44522     SH356  6.57753     SH496  4.71946
+SH077 14.3493      SH217 26.9323      SH357 63.0974      SH497  0
+SH078  0           SH218 27.5881      SH358  9.7528      SH498 16.3612
+SH079  0           SH219 34.3409      SH359 32.5477      SH499  9.25456
+SH080 22.3048      SH220  6.70056     SH360 30.364       SH500  0
+SH081  5.42304     SH221  0           SH361 11.42        SH501  0
+SH082 23.1096      SH222 39.4774      SH362  3.79686     SH502 55.2216
+SH083  3.84008     SH223  0           SH363  0           SH503  6.46598
+SH084 25.672       SH224 22.1927      SH364 37.8628      SH504 22.9867
+SH085  0           SH225 30.7698      SH365  8.5203      SH505  0
+SH086 30.0283      SH226  6.95481     SH366  0.167916    SH506 34.4392
+SH087  0           SH227  0           SH367 34.3964      SH507 14.0512
+SH088  0           SH228 21.1003      SH368 41.5137      SH508  0
+SH089  0           SH229  3.88276     SH369  0           SH509 10.0189
+SH090  0           SH230  1.16269     SH370 27.928       SH510 29.1501
+SH091  0.25234     SH231 55.7479      SH371  6.73517     SH511  0
+SH092  4.38332     SH232  3.26872     SH372  6.99902     SH512 33.3261
+SH093 18.6724      SH233 13.0788      SH373  0           SH513  0
+SH094 14.8998      SH234  7.26141     SH374 39.986       SH514  0
+SH095  0.552896    SH235  0           SH375  8.90206     SH515  0
+SH096 12.1766      SH236  0           SH376 11.8277      SH516  0
+SH097 19.8165      SH237  0           SH377  0           SH517 84.4169
+SH098 19.4962      SH238 62.5061      SH378  0           SH518 22.0615
+SH099 12.156       SH239  0           SH379 13.1716      SH519 22.3973
+SH100 28.0665      SH240  0           SH380 17.6295      SH520 49.3712
+SH101 31.2656      SH241 23.1725      SH381  0           SH521  1.23403
+SH102 34.0571      SH242 31.7322      SH382  0           SH522 13.958
+SH103  2.1664      SH243  0           SH383 19.4107      SH523 33.7028
+SH104 33.3261      SH244  0           SH384  0           SH524 27.0369
+SH105 10.8772      SH245  8.62862     SH385 20.8453      SH525  1.98583
+SH106  3.82422     SH246 73.3395      SH386 44.6836      SH526 36.2211
+SH107 19.6915      SH247  0           SH387 39.7385      SH527 45.8982
+SH108 30.5657      SH248 54.3543      SH388 33.3102      SH528 46.4225
+SH109  0           SH249  0           SH389  0           SH529 13.9557
+SH110 28.8974      SH250  0           SH390 18.9292      SH530 16.5269
+SH111 35.2567      SH251 14.3887      SH391  0           SH531  0
+SH112  0           SH252  0           SH392  0           SH532  7.35479
+SH113 17.2856      SH253  4.78796     SH393 31.1548      SH533  6.39636
+SH114 28.2533      SH254  0           SH394  0           SH534  0
+SH115  0           SH255  0           SH395  0           SH535  0
+SH116 20.8504      SH256  0           SH396  4.75004     SH536  0
+SH117 15.4409      SH257 21.4562      SH397 19.168       SH537  4.20054
+SH118 11.4546      SH258  0           SH398 17.4064      SH538  3.46407
+SH119 39.493       SH259 44.6317      SH399  9.38711     SH539  4.57711
+SH120 14.1542      SH260 24.9045      SH400 21.6654      SH540  0
+SH121 17.4894      SH261  1.69223     SH401  0.664694    SH541 24.8385
+SH122 17.8721      SH262  0           SH402 24.7868      SH542 57.2018
+SH123 69.8667      SH263  0           SH403  0           SH543 19.4382
+SH124 20.9956      SH264 10.7609      SH404  2.42975     SH544  0
+SH125 40.0246      SH265  0           SH405 10.1592      SH545  0
+SH126  0           SH266  0           SH406  0           SH546  0
+SH127  0           SH267 18.5256      SH407  0.0553806   SH547 14.0942
+SH128  0           SH268  7.35012     SH408 27.5991      SH548  0
+SH129  8.715       SH269 14.1323      SH409  2.84772     SH549 34.6118
+SH130  0           SH270 11.6373      SH410 33.5383      SH550 12.004
+SH131  0           SH271  2.19134     SH411 23.8638      SH551  0.97689
+SH132 11.3703      SH272  0.855154    SH412  0           SH552 41.4249
+SH133 19.4137      SH273 17.3317      SH413 48.226       SH553  0
+SH134  0           SH274 21.6762      SH414 14.293       SH554  5.22138
+SH135  0           SH275 32.0579      SH415  0           SH555  0.985446
+SH136 12.7647      SH276 53.9638      SH416 10.5537      SH556  0
+SH137  0           SH277  8.18481     SH417 34.9707      SH557  0.575245
+SH138  9.07663     SH278  7.8848      SH418  3.53163
+SH139 25.0795      SH279 20.259       SH419  0
+SH140 39.7603      SH280 39.6181      SH420  4.12568
+;
+

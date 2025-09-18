@@ -1,0 +1,39 @@
+#Lea_Akzam_akzamlea_1009879669
+#Anjali_Jammulamadaka_jammula1_1009931870
+
+#The BOM table gives us the quantity of the raw material needed for each shoe
+table BOM_table IN "ODBC" "./WARP2011W.mdb" "BOM":
+[Product_Num, RM_Num], Amt_RM_Shoe ~ Quantity;
+read table BOM_table;
+
+#The Machine Assign table tells us how long each machine takes to produce shoe i
+table MAssign_table IN "ODBC" "./WARP2011W.mdb" "Machine_Assign":
+[Product_Num, Machine_Num], Avg_Duration ~ Avg_Duration;
+read table MAssign_table;
+
+#The Machine Master table tells us the operation cost per minute of each machin
+table MMaster_table IN "ODBC" "./WARP2011W.mdb" "Machine_Master":
+M <- [Machine_Num], Machine_OpCost ~ OpCost_per_min;
+read table MMaster_table;
+
+#Product Demand table tells us the historical demand of shoe i for month 2 (February) from 1997-2003
+#which we will use to calculate the demand for February of 2006
+table PDemand_table IN "ODBC" "./WARP2011W.mdb" "SQL=SELECT Product_Num, round(SUM(Demand)*2/7) AS TotalDemand FROM Product_Demand WHERE Month=2 GROUP BY Product_Num":
+[Product_Num], d ~ TotalDemand;
+read table PDemand_table;
+
+#Product Master
+table PMaster_table IN "ODBC" "./WARP2011W.mdb" "Product_Master":
+S <- [Product_Num], Shoe_Cost ~ Sales_Price;
+read table PMaster_table;
+
+#RM Master
+table RMMaster_table IN "ODBC" "./WARP2011W.mdb" "RM_Master":
+R <- [RM_Num], RM_Cost ~ Cost, RM_Amount ~ S_Quantity;
+read table RMMaster_table;
+
+#Warehouse
+table Warehouse_table IN "ODBC" "./WARP2011W.mdb" "Warehouse_Master":
+WH <- [Warehouse_Num], Warehouse_Capacity ~ Capacity, Warehouse_OpCost ~ Op_Cost; # do we need the last one?
+read table Warehouse_table;
+

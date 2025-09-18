@@ -1,0 +1,59 @@
+#Lea_Akzam_akzamlea_1009879669
+#Anjali_Jammulamadaka_jammula1_1009931870
+
+reset;
+
+model WARPShoe.mod;
+data WARPShoe.dat;
+
+option solver gurobi;
+
+solve;
+
+printf "The maximum profit is: %0.2f.\n", profit > WARPShoe.out;
+printf "The optimal x-values (shoes produced) are: \n" > WARPShoe.out;
+
+display x, x.rc > WARPShoe7.out;
+
+if Budget_Co.slack == 0 then
+	printf "Budget is binding.\n" > WARPShoe.out;
+else 
+	printf "Budget is not binding.\n" > WARPShoe.out;
+
+
+if Time_Co.slack == 0 then
+	printf "Time Constraint is binding.\n" > WARPShoe.out;
+else 
+	printf "Time Constraint is not binding.\n" > WARPShoe.out;
+
+for {w in WH} {
+	if Warehouse_Co[w].slack == 0 then
+		printf "Warehouse Capacity is binding.\n" > WARPShoe.out;
+	else 
+		printf "Warehouse Capacity is not binding.\n" > WARPShoe.out;
+}
+		
+for {rm in R} {
+	if RM_Quantity_Available[rm].slack == 0 then
+		printf "Raw Material Quantity Available is binding.\n" > WARPShoe.out;
+	else 
+		printf "Raw Material Quantity Available is not binding.\n" > WARPShoe.out;
+}
+
+for {s in S} {
+	if Demand_Co[s].slack == 0 then
+		printf "Demand is binding.\n" > WARPShoe.out;
+	else 
+		printf "Demand is not binding.\n" > WARPShoe.out;
+}
+
+printf "The shadow prices are: \n" > WARPShoe.out;
+display Budget_Co.dual > WARPShoe.out;
+display Time_Co.dual > WARPShoe.out;
+display Warehouse_Co.dual > WARPShoe.out;
+display RM_Quantity_Available.dual > WARPShoe.out;
+display Demand_Co.dual > WARPShoe.out;
+
+
+
+
